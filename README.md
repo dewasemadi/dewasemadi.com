@@ -1,4 +1,4 @@
-# dewasemadi.com Discussions
+# dewasemadi.com discussions
 
 Welcome to the official discussion repository for [dewasemadi.com](https://dewasemadi.com).
 
